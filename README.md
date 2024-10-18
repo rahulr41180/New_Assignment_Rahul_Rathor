@@ -45,7 +45,7 @@ http://localhost:3000
 
 - I have used Render platform for frontend code deployment.
 
-### <u>ReqRes API</u>
+### <u>Used ReqRes APIs For Data Fetching</u>
 
 - https://reqres.in/
 
