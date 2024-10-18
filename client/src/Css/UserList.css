@@ -1,0 +1,43 @@
+
+#rlpc_container {
+    width: 98.7vw;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#rlpc_renderleadProfileContainer {
+
+    width: 90%;
+}
+
+.rlpc_table, .rlpc_table th, .rlpc_table td {
+    border: 2px solid silver;
+}
+
+.rlpc_table th, .rlpc_table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ul_paginationContainer {
+    width: 80%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul_loader {
+    border: 2px solid silver;
+    width: 80%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+}

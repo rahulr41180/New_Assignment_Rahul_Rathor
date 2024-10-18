@@ -1,0 +1,13 @@
+
+.hp_secureContainer {
+    border-bottom: 1px solid;
+    width: 28vw;
+    height: 50px;
+    margin: auto;
+    position: relative;
+    top: 177px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 10px;  
+}
